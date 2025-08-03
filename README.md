@@ -6,7 +6,7 @@ This is a simple and clean website built using HTML and CSS to showcase my skill
 ## 🌐 Live Website
 
 👉 [https://kamalhara.github.io/kamal-portfolio](https://kamalhara.github.io/kamal-portfolio)  
-*(Update this link after you publish your site on GitHub Pages)*
+
 
 ## 📌 About the Project
 
